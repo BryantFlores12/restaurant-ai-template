@@ -1,5 +1,7 @@
 # AI Restaurant Website Template
 
+[![CI](https://github.com/BryantFlores12/restaurant-ai-template/actions/workflows/ci.yml/badge.svg)](https://github.com/BryantFlores12/restaurant-ai-template/actions/workflows/ci.yml)
+
 A responsive restaurant website starter with reservation capture, event-menu configuration, a local knowledge-base chatbot, and optional Gemini responses through a server-side PHP proxy.
 
 ## Highlights
