@@ -1,0 +1,9 @@
+AI RESTAURANT WEBSITE — COMMERCIAL SINGLE-DEPLOYMENT LICENSE
+
+The purchaser may customize and deploy this package for one restaurant or hospitality business. The purchaser may modify the source code for that deployment and use it commercially for the licensed business.
+
+The purchaser may not resell, redistribute, sublicense, publish, or provide the source package as a template, starter kit, competing product, or downloadable asset. A separate license is required for each additional restaurant deployment.
+
+Third-party services, fonts, APIs, and customer-provided assets remain subject to their own terms. Demonstration images must be replaced with assets the deploying restaurant owns or is licensed to use.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR UNINTERRUPTED OPERATION. THE PURCHASER IS RESPONSIBLE FOR LEGAL, PRIVACY, ACCESSIBILITY, ALLERGEN, MENU, PRICE, AND HOSTING COMPLIANCE.
