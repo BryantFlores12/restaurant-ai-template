@@ -1,13 +1,12 @@
-# Deployment Security Checklist
+# Lista de seguridad para el despliegue
 
-- Revoke any API key that has previously appeared in browser-side HTML or JavaScript.
-- Store `GEMINI_API_KEY` only as a server environment variable.
-- Keep reservation files outside the public web root.
-- Use HTTPS on all production pages.
-- Add rate limiting at the host, CDN, or reverse proxy for `proxy.php` and `leads.php`.
-- Replace temporary deployment credentials after delivery.
-- Do not use real customer data in staging.
-- Add a privacy notice and obtain consent before storing reservation contact information.
-- Back up the site and lead storage before updates.
-- Review menu, allergen, price, opening-hour, and contact claims with the restaurant owner before launch.
-
+- Revoca cualquier clave de API que haya aparecido anteriormente en el HTML o JavaScript del navegador.
+- Guarda `GEMINI_API_KEY` únicamente como variable de entorno en el servidor.
+- Mantén los archivos de reservaciones fuera de la carpeta pública.
+- Utiliza HTTPS en todas las páginas publicadas.
+- Limita las solicitudes a `proxy.php` y `leads.php` desde el servidor, CDN o proxy inverso.
+- Sustituye las credenciales temporales antes de publicar el sitio.
+- No utilices información real de clientes en el entorno de pruebas.
+- Agrega un aviso de privacidad y solicita consentimiento antes de guardar datos de contacto.
+- Realiza una copia de seguridad del sitio y las reservaciones antes de actualizar.
+- Revisa el menú, alérgenos, precios, horarios y medios de contacto antes del lanzamiento.
