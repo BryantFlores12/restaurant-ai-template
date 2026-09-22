@@ -1,5 +1,9 @@
 AI RESTAURANT WEBSITE — COMMERCIAL SINGLE-DEPLOYMENT LICENSE
 
+Copyright © 2026 Bryant Flores. All rights reserved.
+
+Public access to this repository permits source review for professional evaluation only. It does not, by itself, grant rights to use, copy, redistribute, sublicense, or commercialize the software.
+
 The purchaser may customize and deploy this package for one restaurant or hospitality business. The purchaser may modify the source code for that deployment and use it commercially for the licensed business.
 
 The purchaser may not resell, redistribute, sublicense, publish, or provide the source package as a template, starter kit, competing product, or downloadable asset. A separate license is required for each additional restaurant deployment.

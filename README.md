@@ -4,6 +4,8 @@
 
 A responsive restaurant website starter with reservation capture, event-menu configuration, a local knowledge-base chatbot, and optional Gemini responses through a server-side PHP proxy.
 
+> Source code is public for portfolio evaluation. Publication does not grant permission to copy, redistribute, or commercialize this product; see the included license.
+
 ## Highlights
 
 - Responsive, single-page dining experience.
