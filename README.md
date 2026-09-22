@@ -4,8 +4,6 @@
 
 A responsive restaurant website starter with reservation capture, event-menu configuration, a local knowledge-base chatbot, and optional Gemini responses through a server-side PHP proxy.
 
-> Source code is public for portfolio evaluation. Publication does not grant permission to copy, redistribute, or commercialize this product; see the included license.
-
 ## Highlights
 
 - Responsive, single-page dining experience.
@@ -14,7 +12,7 @@ A responsive restaurant website starter with reservation capture, event-menu con
 - Chat assistant with a no-network fallback knowledge base.
 - Optional Gemini integration that keeps the API key on the server.
 - Optional reservation lead storage outside the public web root.
-- Security checklist and customer intake form for repeatable delivery.
+- Security checklist and deployment guidance.
 
 ## Requirements
 
@@ -51,10 +49,12 @@ Open `http://localhost:8080`. The chatbot continues to answer common questions f
 | `proxy.php` | Server-side Gemini proxy |
 | `leads.php` | Optional reservation lead storage |
 | `img/` | Demonstration imagery to replace for production |
-| `INTAKE_FORM.md` | Customer customization questionnaire |
-| `SERVICE_SCOPE.md` | Suggested delivery boundaries |
 | `SECURITY.md` | Production security checklist |
 
-## Asset and license notice
+## Project context
 
-The included photos are demonstration assets and must be replaced with images the deploying restaurant owns or is licensed to use. This project is proprietary commercial software under `LICENSE.txt`; review those terms before sharing or deploying the source.
+Portfolio project created to demonstrate a polished restaurant experience with reservation capture, configurable menus, a local assistant, and an optional server-side Gemini integration.
+
+## Asset notice
+
+The included photos are demonstration assets and should be replaced with images the deploying restaurant owns or is licensed to use.
